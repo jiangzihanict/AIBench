@@ -24,6 +24,7 @@ You need to download ImageNet ILSVRC2012 Dataset  from http://www.image-net.org/
 
 python imagenet_main.py --data_dir=/path/to/imagenet
 
+Both the training dataset and the validation dataset are in the same directory. 
 The model will begin training and will automatically evaluate itself on the validation data roughly once per epoch.
 
 Some options:
