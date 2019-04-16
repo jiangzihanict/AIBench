@@ -18,7 +18,7 @@ ImageNet ILSVRC2012 Dataset
 ## How to run
 
 ### 1.Prepare Dataset
-You need to download this dataset from http://www.image-net.org/， then you should convet these raw images to TFRecords by using build_imagenet_data.py script.
+You need to download ImageNet ILSVRC2012 Dataset  from http://www.image-net.org/， then you should convet these raw images to TFRecords by using build_imagenet_data.py script.
 
 ### 2.Start running
 
